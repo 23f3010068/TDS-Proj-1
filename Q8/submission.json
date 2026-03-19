@@ -1,0 +1,6 @@
+{
+  "prompt": "A dramatic wide-angle landscape photograph of a Scottish highland valley at golden hour. In the foreground, four distinct small streams flow visibly, unmistakably uphill along separate channels carved into the dark basalt rock — their water catching warm amber light as it moves upward, foam and ripples showing clear upward motion. Each stream is isolated, separate, clearly flowing up. But where all four streams converge at the center of the frame, the merged river flows powerfully and unmistakably downhill into a deep shadowed valley below. The local and the global are simultaneously visible and irreconcilable in a single frame. Overcast atmospheric sky, rich deep green moss on rocks, photorealistic, 8K nature photography. No text, no annotations, no people, no diagrams.",
+  "model": "DALL-E 3 via ChatGPT",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Four streams each visibly flow uphill; their merged river flows downhill. Every local subgroup trend points one way; the aggregate reverses it — both truths visible simultaneously in one frame."
+}
