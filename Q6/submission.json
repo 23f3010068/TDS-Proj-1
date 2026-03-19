@@ -1,0 +1,6 @@
+{
+  "prompt": "A long ancient stone tunnel stretching deep into absolute darkness. A single file line of twenty torch-bearers standing from foreground to the far background. The first figure in the foreground holds a massive roaring torch, face fully lit in brilliant amber-orange. Each successive figure deeper in the tunnel holds a progressively smaller, dimmer flame. Figures in the middle distance hold struggling candle-sized flames. The last four figures at the far end are barely visible dark silhouettes holding near-extinguished embers that cast almost no light. The tunnel stone walls show the gradient — blazing warm orange glow near the front, fading to cold deep shadow and near-total darkness at the far end. Cinematic photography, dramatic chiaroscuro lighting, ultra-detailed, photorealistic, 8K. No text, no labels, no diagrams, no numbers, no floating elements.",
+  "model": "DALL-E 3 via ChatGPT",
+  "concept": "vanishing gradients",
+  "metaphor": "A chain of torchbearers in a deep tunnel: each person receives only a fraction of the previous person's light, until the last bearers stand in near-total darkness — the gradient signal has vanished through depth."
+}
