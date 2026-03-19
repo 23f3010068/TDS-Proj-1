@@ -1,0 +1,7 @@
+{
+  "prompt": "An endless cracked drought-parched agricultural field stretching to the horizon under a blood-orange dusk sky. Scattered across the entire field are thousands of tiny clay oil lamps (diyas), most extinguished, with thin wisps of white smoke rising from them. Only a small cluster near the foreground still burns. The scale of the dark, smokeless lamps overwhelms the frame. No text, no labels, no figures, no sky charts. Cinematic composition, shallow depth of field, ultra-detailed, photorealistic, 8K. --ar 16:9 --style raw --v 6.1 --no graphs charts infographics text numbers people thermometer globe",
+  "model": "Midjourney v6.1",
+  "dataset_name": "Accidental Deaths and Suicides in India 2022 (NCRB)",
+  "dataset_url": "https://ncrb.gov.in/accidental-deaths-suicides-in-india",
+  "insight": "In 2022, over 11,000 Indian farmers died by suicide — approximately one every 48 minutes — driven by crushing debt, drought, and repeated crop failure."
+}
